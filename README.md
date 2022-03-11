@@ -1,2 +1,2 @@
-# vesm1kt
+# Verkefni 1
 
